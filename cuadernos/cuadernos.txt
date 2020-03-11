@@ -1,0 +1,1 @@
+Auí encuentra los cuadernos Jupyter lab del curso de Estadstica Bayesiana
